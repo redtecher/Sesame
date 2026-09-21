@@ -103,10 +103,6 @@ sesame/
 └── pipeline.py        # Main pipeline entry point
 ```
 
-## Documentation
-
-- [docs/design_zh.md](docs/design_zh.md) — research framing, innovation points, evaluation design (Chinese)
-- [docs/implementation_zh.md](docs/implementation_zh.md) — architecture, pipeline, models, engineering details (Chinese)
 
 ## Responsible Use
 
