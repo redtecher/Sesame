@@ -103,11 +103,6 @@ sesame/
 └── pipeline.py        # 主流水线入口
 ```
 
-## 文档
-
-- [docs/design_zh.md](docs/design_zh.md) — 研究框架、创新点、评测设计
-- [docs/implementation_zh.md](docs/implementation_zh.md) — 架构、流水线、模型与工程细节
-
 ## 合规使用
 
 Sesame 是一款安全研究工具，仅用于分析**你本人拥有或获得授权测试的本地模拟环境中的固件**。未经设备/服务所有者明确许可，请勿对在线设备或服务使用本工具。
